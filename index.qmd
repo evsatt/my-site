@@ -1,0 +1,28 @@
+---
+title: "Dr. Erin Satterthwaite"
+image: e-headshot.png
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/erin-satterthwaite-309a79164/
+    - text: GitHub
+      href: https://github.com/evsatt
+    - text: Email
+      href: mailto:esatterthwaite@ucsd.edu
+---
+
+Hello!  My name is Erin and I'm an ocean sustainability researcher, life adventurer, outdoor educator, marine ecologist, science communicator, & dance enthusiast. 
+
+# Education
+
+PhD in  Ecology, University of California, Davis 
+
+# Experience
+
+Sustainability Researcher at California Sea Grant & CalCOFI, Scripps Institution of Oceanography, UCSD
+
+# Projects
+
